@@ -23,7 +23,7 @@ import ionic from "./tech/ionic.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
+import unia from "./company/unia.png";
 import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
@@ -54,7 +54,7 @@ export {
   ionic,
   meta,
   shopify,
-  starbucks,
+  unia,
   tesla,
   carrent,
   jobit,

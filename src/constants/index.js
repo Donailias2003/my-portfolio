@@ -16,7 +16,7 @@ import {
   figma,
   csharp,
   meta,
-  starbucks,
+  unia,
   tesla,
   shopify,
   carrent,
@@ -118,7 +118,7 @@ const experiences = [
   {
     title: "Informatico di gestione AFC",
     company_name: "Scuola Specializzata Superiore Informatica di Gestione",
-    icon: starbucks,
+    icon: unia,
     iconBg: "#383E56",
     date: "Sep 2021 - Prensent",
     points: [
