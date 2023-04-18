@@ -132,7 +132,7 @@ const experiences = [
     title: "Impiegato di commercio AFC",
     company_name: "Sindacato UNIA",
     icon: unia,
-    iconBg: "#E6DEDD",
+    iconBg: "white",
     date: "Sep 2018 - Aug 2021",
     points: [
       "Administration jobs.",
