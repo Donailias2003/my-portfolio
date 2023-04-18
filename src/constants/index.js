@@ -17,7 +17,7 @@ import {
   csharp,
   meta,
   unia,
-  tesla,
+  ssse,
   shopify,
   carrent,
   jobit,
@@ -131,7 +131,7 @@ const experiences = [
   {
     title: "Impiegato di commercio AFC",
     company_name: "Sindacato UNIA",
-    icon: tesla,
+    icon: ssse,
     iconBg: "#E6DEDD",
     date: "Sep 2018 - Aug 2021",
     points: [

@@ -24,7 +24,7 @@ import ionic from "./tech/ionic.png";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import unia from "./company/unia.png";
-import tesla from "./company/tesla.png";
+import ssse from "./company/ssse.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -55,7 +55,7 @@ export {
   meta,
   shopify,
   unia,
-  tesla,
+  ssse,
   carrent,
   jobit,
   tripguide,
