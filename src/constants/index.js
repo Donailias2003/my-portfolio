@@ -118,7 +118,7 @@ const experiences = [
   {
     title: "Informatico di gestione AFC",
     company_name: "Scuola Specializzata Superiore Informatica di Gestione",
-    icon: unia,
+    icon: ssse,
     iconBg: "#383E56",
     date: "Sep 2021 - Prensent",
     points: [
@@ -131,7 +131,7 @@ const experiences = [
   {
     title: "Impiegato di commercio AFC",
     company_name: "Sindacato UNIA",
-    icon: ssse,
+    icon: unia,
     iconBg: "#E6DEDD",
     date: "Sep 2018 - Aug 2021",
     points: [
