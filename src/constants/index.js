@@ -172,20 +172,20 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Football Tournaments App",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Management application for a football tournament, match management, results display, votes for best player of the tournament by fans from their smartphones.",
     tags: [
       {
-        name: "react",
+        name: "JavaScript",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "PHP",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "HTML/CSS",
         color: "pink-text-gradient",
       },
     ],
