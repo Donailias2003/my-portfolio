@@ -4,17 +4,17 @@ import {
   creator,
   web,
   javascript,
-  typescript,
+  java,
   html,
   css,
   reactjs,
-  redux,
+  php,
   tailwind,
   nodejs,
-  mongodb,
+  mysql,
   git,
   figma,
-  docker,
+  csharp,
   meta,
   starbucks,
   tesla,
@@ -22,7 +22,7 @@ import {
   carrent,
   jobit,
   tripguide,
-  threejs,
+  ionic,
 } from "../assets";
 
 export const navLinks = [
@@ -46,7 +46,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Mobile Native Developer",
     icon: mobile,
   },
   {
@@ -54,7 +54,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Frontend Creator",
     icon: creator,
   },
 ];
@@ -73,16 +73,16 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
+    name: "Java",
+    icon: java,
   },
   {
     name: "React JS",
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "PHP",
+    icon: php,
   },
   {
     name: "Tailwind CSS",
@@ -93,12 +93,12 @@ const technologies = [
     icon: nodejs,
   },
   {
-    name: "MongoDB",
-    icon: mongodb,
+    name: "MySQL",
+    icon: mysql,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "Ionic",
+    icon: ionic,
   },
   {
     name: "git",
@@ -109,8 +109,8 @@ const technologies = [
     icon: figma,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "c#",
+    icon: csharp,
   },
 ];
 
