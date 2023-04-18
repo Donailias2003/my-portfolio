@@ -50,7 +50,7 @@ export {
   reactjs,
   php,
   tailwind,
-  typescript,
+  java,
   ionic,
   meta,
   shopify,
